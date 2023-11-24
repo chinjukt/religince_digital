@@ -1,0 +1,40 @@
+.titleheader {
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #e42529;
+    /* top: 0; */
+    /* z-index: 100; */
+    width: 100%;
+    margin-top: 0px;
+  }
+
+
+.titlevr{
+    height: 25px;
+    width: 1px;
+    background-color: white;
+}
+  
+  
+  .titleheader__optionLineTwo {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+
+  
+  .titleheader__nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 60px;
+  }
+  
+  .titleheader__option {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+  }

@@ -1,0 +1,16 @@
+.card{
+    overflow-y: hidden;
+}
+
+.card img{
+    width: 100%;
+    transition: 0.5s all ease-in-out
+}
+
+.card img:hover{
+    transform: scale(1.1);
+}
+
+/* .cc:hover{
+    color: red;
+} */

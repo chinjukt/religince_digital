@@ -1,0 +1,20 @@
+.nav-link{
+    color: white;
+}
+
+.nav-item:hover{
+    background-color: #e42529;
+
+}
+
+.nav-item:hover .nav-link{
+    color: white;
+}
+
+.navbar{
+    overflow: hidden;
+  background-color: #666666;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
